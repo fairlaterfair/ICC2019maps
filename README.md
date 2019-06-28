@@ -12,3 +12,6 @@
 ## iframe埋め込みサンプル
 * source: https://github.com/furuhashilab/ICC2019maps/blob/master/iframe.html
 * sample: https://furuhashilab.github.io/ICC2019maps/iframe.html
+
+## 編集内容
+* テレコムセンターに旗を立てる
